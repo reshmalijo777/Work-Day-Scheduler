@@ -16,7 +16,7 @@ URL for Deployed Website:
 <a href="https://reshmalijo777.github.io/Work-Day-Scheduler/">Deployed Website</a>
 
 Reference:
-https://stackoverflow.com/questions/59995703/
+https://stackoverflow.com/questions/59995703/ <br>
 Also got some external help to fix some errors occured while doing this homework.But at the end i completely understand the codes and its working.
 
 
@@ -24,3 +24,11 @@ Also got some external help to fix some errors occured while doing this homework
 
 Screenshots
 -----------
+<img width="949" alt="Screenshot 2023-04-14 121542" src="https://user-images.githubusercontent.com/128992593/232168522-dde12cf6-e84b-4759-b935-f9ac21e0fcaf.png">
+<br>
+<img width="944" alt="Screenshot 2023-04-14 121644" src="https://user-images.githubusercontent.com/128992593/232168607-22663bd2-9dcc-4bf2-8ca3-b09f0de880dd.png">
+<br>
+<img width="944" alt="Screenshot 2023-04-14 121748" src="https://user-images.githubusercontent.com/128992593/232168627-50ffa9d2-8c21-431e-91e8-1a03102915ef.png">
+
+
+

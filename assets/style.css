@@ -1,0 +1,63 @@
+body {
+    font-family: 'Pacifico', cursive;
+    font-size: 16px;
+  }
+  header{
+    background-color: #abcad8;
+  }
+  textarea {
+    background: transparent;
+    border: none;
+    resize: none;
+    color: #000000;
+    border-left: 1px solid black;
+    padding: 10px;
+    font-family: 'Courgette', cursive;
+  }
+  
+  .description {
+    white-space: pre-wrap;
+  }
+  
+  .time-block {
+    border-radius: 15px;
+  }
+  
+  .row {
+    border-top: 1px solid rgb(119, 115, 115);
+  }
+  
+  .hour {
+    background-color: #ffffff;
+    color: #000000;
+    border-top: 1px dashed #000000;
+  }
+  
+  .past {
+    background-color: #c3c2c2ac;
+    color: white;
+  }
+  
+  .present {
+    background-color: #d96d67;
+    color: white;
+  }
+  
+  .future {
+    background-color: #5e975e;
+    color: white;
+  }
+  
+  .saveBtn {
+    border-left: 1px solid black;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    background-color: #06c7d5;
+    color: white;
+  }
+  
+  .saveBtn i:hover {
+    font-size: 20px;
+    transition: all 0.3s ease-in-out;
+  }
+  
